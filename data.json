@@ -14,37 +14,5 @@
         "Status": "ali",
         "Code": "ali",
         "uid": "6"
-    },
-    {
-        "Name": "x",
-        "Genre": "x",
-        "Type": "x",
-        "Status": "x",
-        "Code": "x",
-        "uid": "7"
-    },
-    {
-        "Name": "y",
-        "Genre": "y",
-        "Type": "y",
-        "Status": "y",
-        "Code": "y",
-        "uid": "8"
-    },
-    {
-        "Name": "h",
-        "Genre": "h",
-        "Type": "h",
-        "Status": "h",
-        "Code": "h",
-        "uid": "9"
-    },
-    {
-        "Name": "vb",
-        "Genre": "vb",
-        "Type": "vb",
-        "Status": "vb",
-        "Code": "vb",
-        "uid": "10"
     }
 ]

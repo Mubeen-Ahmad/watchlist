@@ -1,37 +1,5 @@
 [
     {
-        "Name": "ddd",
-        "Genre": "Action",
-        "Type": "Movie",
-        "Status": "Watched ",
-        "Code": "2",
-        "uid": "1"
-    },
-    {
-        "Name": "j",
-        "Genre": "j",
-        "Type": "j",
-        "Status": "j",
-        "Code": "j",
-        "uid": "2"
-    },
-    {
-        "Name": "S",
-        "Genre": "1",
-        "Type": "1",
-        "Status": "1",
-        "Code": "1",
-        "uid": "3"
-    },
-    {
-        "Name": "k",
-        "Genre": "l",
-        "Type": "k",
-        "Status": "k",
-        "Code": "k",
-        "uid": "4"
-    },
-    {
         "Name": "mubeen",
         "Genre": "action",
         "Type": "movie",
@@ -72,19 +40,11 @@
         "uid": "9"
     },
     {
-        "Name": "y",
-        "Genre": "y",
-        "Type": "y",
-        "Status": "y",
-        "Code": "y",
+        "Name": "vb",
+        "Genre": "vb",
+        "Type": "vb",
+        "Status": "vb",
+        "Code": "vb",
         "uid": "10"
-    },
-    {
-        "Name": "f",
-        "Genre": "f",
-        "Type": "f",
-        "Status": "f",
-        "Code": "f",
-        "uid": "11"
     }
 ]

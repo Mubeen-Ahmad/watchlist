@@ -1,12 +1,5 @@
 [
     {
-        "name": "aot",
-        "Genre": "a",
-        "Status": "w",
-        "Type": "m",
-        "code": "1"
-    },
-    {
         "name": "deman",
         "Genre": "t",
         "Status": "w",

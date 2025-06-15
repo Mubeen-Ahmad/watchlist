@@ -233,7 +233,7 @@
     },
     {
         "Name": "My Dress up Darling",
-        "Genre": " Slice of Life | Romance",
+        "Genre": "Slice of Life | Romance",
         "Type": "Episode",
         "Status": "Watched",
         "Code": "30",
@@ -272,7 +272,7 @@
         "uid": "34"
     },
     {
-        "Name": "Suzune",
+        "Name": "Suzume",
         "Genre": "Action | Romance | Slice of Life",
         "Type": "Movie",
         "Status": "Watched",

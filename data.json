@@ -134,5 +134,141 @@
         "Status": "Watched",
         "Code": "17",
         "uid": "17"
+    },
+    {
+        "Name": "You lie in April",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "18",
+        "uid": "18"
+    },
+    {
+        "Name": "A Slient Voice",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "19",
+        "uid": "19"
+    },
+    {
+        "Name": "I Want to eat your pancreas",
+        "Genre": " Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "20",
+        "uid": "20"
+    },
+    {
+        "Name": "Your Name",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "21",
+        "uid": "21"
+    },
+    {
+        "Name": "5 CM Per Second",
+        "Genre": "Slice of Life",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "22",
+        "uid": "22"
+    },
+    {
+        "Name": "Weathering With you",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "23",
+        "uid": "23"
+    },
+    {
+        "Name": "Relif",
+        "Genre": " Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "24",
+        "uid": "24"
+    },
+    {
+        "Name": "Attack on Titan",
+        "Genre": "Action | Shounen | Slice of Life",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "25",
+        "uid": "25"
+    },
+    {
+        "Name": "Darling in Frenx",
+        "Genre": "Slice of Life",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "26",
+        "uid": "26"
+    },
+    {
+        "Name": "ReZero",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "27",
+        "uid": "27"
+    },
+    {
+        "Name": "Blue Box",
+        "Genre": "",
+        "Type": "",
+        "Status": "Yet to Watched",
+        "Code": "28",
+        "uid": "28"
+    },
+    {
+        "Name": "Insomniacs After School",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "29",
+        "uid": "29"
+    },
+    {
+        "Name": "My Dress up Darling",
+        "Genre": " Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "30",
+        "uid": "30"
+    },
+    {
+        "Name": "A Couple of Cukoos",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "31",
+        "uid": "31"
+    },
+    {
+        "Name": "Grave of the firefiles",
+        "Genre": "Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "32",
+        "uid": "32"
+    },
+    {
+        "Name": "The Wolf of Children",
+        "Genre": "Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "33",
+        "uid": "33"
+    },
+    {
+        "Name": "Plastic Memories",
+        "Genre": "Slice of Life",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "34",
+        "uid": "34"
     }
 ]

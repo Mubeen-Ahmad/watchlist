@@ -286,5 +286,45 @@
         "Status": "Yet to Watched",
         "Code": "36",
         "uid": "36"
+    },
+    {
+        "Name": "Makeine Too Many Losing Heroine",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "37",
+        "uid": "37"
+    },
+    {
+        "Name": "The angel next door spoils me rotten",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "38",
+        "uid": "38"
+    },
+    {
+        "Name": "Devil me Cry",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "39",
+        "uid": "39"
+    },
+    {
+        "Name": "Death Note",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "40",
+        "uid": "40"
+    },
+    {
+        "Name": "Anne Happy",
+        "Genre": "Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "41",
+        "uid": "41"
     }
 ]

@@ -270,5 +270,21 @@
         "Status": "Yet to Watched",
         "Code": "34",
         "uid": "34"
+    },
+    {
+        "Name": "Suzune",
+        "Genre": "Action | Romance | Slice of Life",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "35",
+        "uid": "35"
+    },
+    {
+        "Name": "Garden of Words",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "36",
+        "uid": "36"
     }
 ]

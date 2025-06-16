@@ -336,7 +336,11 @@
         "uid": "42"
     },
     {
+<<<<<<< HEAD
         "Name": "Enter Name",
+=======
+        "Name": "1",
+>>>>>>> d36459b (update)
         "Genre": "e.g Fantasy | Action ...",
         "Type": "Episode / Movie",
         "Status": "Watched / Yet to Watched",

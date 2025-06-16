@@ -336,11 +336,35 @@
         "uid": "42"
     },
     {
-        "Name": "1",
+        "Name": "Attack On Titan OAD",
+        "Genre": "Action | Shounen | Slice of Life",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "25",
+        "uid": "43"
+    },
+    {
+        "Name": "Why Raeliana Ended Up at the Duke's Mansion",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "43",
+        "uid": "44"
+    },
+    {
+        "Name": "Mashle Magic And Muscles",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "44",
+        "uid": "45"
+    },
+    {
+        "Name": "Enter Name",
         "Genre": "e.g Fantasy | Action ...",
         "Type": "Episode / Movie",
         "Status": "Watched / Yet to Watched",
-        "Code": "43",
-        "uid": "43"
+        "Code": "45",
+        "uid": "46"
     }
 ]

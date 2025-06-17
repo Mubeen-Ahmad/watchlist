@@ -203,7 +203,7 @@
         "Name": "Darling in Frenx",
         "Genre": "Slice of Life",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "26",
         "uid": "26"
     },
@@ -336,10 +336,10 @@
         "uid": "42"
     },
     {
-        "Name": "1",
-        "Genre": "e.g Fantasy | Action ...",
-        "Type": "Episode / Movie",
-        "Status": "Watched / Yet to Watched",
+        "Name": "The Detective Is Already Dead",
+        "Genre": "Drama | Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
         "Code": "43",
         "uid": "43"
     }

@@ -138,7 +138,7 @@
     {
         "Name": "You lie in April",
         "Genre": "Slice of Life | Romance",
-        "Type": "Episode",
+        "Type": "Movie",
         "Status": "Watched",
         "Code": "18",
         "uid": "18"
@@ -203,7 +203,7 @@
         "Name": "Darling in Frenx",
         "Genre": "Slice of Life",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Yet to Watched",
         "Code": "26",
         "uid": "26"
     },

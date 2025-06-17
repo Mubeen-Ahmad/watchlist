@@ -138,7 +138,7 @@
     {
         "Name": "You lie in April",
         "Genre": "Slice of Life | Romance",
-        "Type": "Episode",
+        "Type": "Epsoide",
         "Status": "Watched",
         "Code": "18",
         "uid": "18"
@@ -200,10 +200,10 @@
         "uid": "25"
     },
     {
-        "Name": "Darling in Franxx",
+        "Name": "Darling in Frenx",
         "Genre": "Slice of Life",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Yet to Watched",
         "Code": "26",
         "uid": "26"
     },
@@ -336,19 +336,11 @@
         "uid": "42"
     },
     {
-        "Name": "Josee the Tiger and the Fish",
-        "Genre": "Slice of Life",
-        "Type": "Movie",
-        "Status": "Watched",
+        "Name": "1",
+        "Genre": "e.g Fantasy | Action ...",
+        "Type": "Episode / Movie",
+        "Status": "Watched / Yet to Watched",
         "Code": "43",
         "uid": "43"
-    },
-    {
-        "Name": "The Girl Who Leapt Through Time",
-        "Genre": "Slice of Life",
-        "Type": "Movie",
-        "Status": "Watched",
-        "Code": "44",
-        "uid": "44"
     }
 ]

@@ -200,7 +200,7 @@
         "uid": "25"
     },
     {
-        "Name": "Darling in Frenx",
+        "Name": "Darling in Franxx",
         "Genre": "Slice of Life",
         "Type": "Episode",
         "Status": "Watched",
@@ -336,11 +336,19 @@
         "uid": "42"
     },
     {
-        "Name": "1",
-        "Genre": "e.g Fantasy | Action ...",
-        "Type": "Episode / Movie",
-        "Status": "Watched / Yet to Watched",
+        "Name": "Josee the Tiger and the Fish",
+        "Genre": "Slice of Life",
+        "Type": "Movie",
+        "Status": "Watched",
         "Code": "43",
         "uid": "43"
+    },
+    {
+        "Name": "The Girl Who Leapt Through Time",
+        "Genre": "Slice of Life",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "44",
+        "uid": "44"
     }
 ]

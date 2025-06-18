@@ -138,7 +138,7 @@
     {
         "Name": "You lie in April",
         "Genre": "Slice of Life | Romance",
-        "Type": "Movie",
+        "Type": "Epsoide",
         "Status": "Watched",
         "Code": "18",
         "uid": "18"
@@ -203,7 +203,7 @@
         "Name": "Darling in Frenx",
         "Genre": "Slice of Life",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "26",
         "uid": "26"
     },
@@ -336,27 +336,19 @@
         "uid": "42"
     },
     {
-        "Name": "Attack On Titan OAD",
-        "Genre": "Action | Shounen | Slice of Life",
+        "Name": "The Detective Is Already Dead",
+        "Genre": "Drama | Romance",
         "Type": "Episode",
-        "Status": "Watched",
-        "Code": "25",
+        "Status": "Yet to Watched",
+        "Code": "43",
         "uid": "43"
     },
     {
-        "Name": "Why Raeliana Ended Up at the Duke's Mansion",
-        "Genre": "isekai",
-        "Type": "Episode",
-        "Status": "Watched",
-        "Code": "43",
-        "uid": "44"
-    },
-    {
-        "Name": "Mashle Magic And Muscles",
+        "Name": "Overload",
         "Genre": "Fantasy | Action",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Yet to Watched",
         "Code": "44",
-        "uid": "45"
+        "uid": "44"
     }
 ]

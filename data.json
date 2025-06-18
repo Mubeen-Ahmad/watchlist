@@ -350,5 +350,13 @@
         "Status": "Yet to Watched",
         "Code": "44",
         "uid": "44"
+    },
+    {
+        "Name": "4",
+        "Genre": "e.g Fantasy | Action ...",
+        "Type": "Episode / Movie",
+        "Status": "Watched / Yet to Watched",
+        "Code": "45",
+        "uid": "45"
     }
 ]

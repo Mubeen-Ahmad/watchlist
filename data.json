@@ -390,5 +390,13 @@
         "Type": "Episode",
         "Status": "Yet to Watched",
         "Code": "49"
+    },
+    {
+        "uid": "50",
+        "Name": "Dead Mount Death Play",
+        "Genre": "Dark Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "50"
     }
 ]

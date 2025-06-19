@@ -105,7 +105,7 @@
     },
     {
         "Name": "Solo leveling",
-        "Genre": "isekai",
+        "Genre": "Action",
         "Type": "Episode",
         "Status": "Watched",
         "Code": "14",
@@ -350,5 +350,37 @@
         "Status": "Yet to Watched",
         "Code": "44",
         "uid": "44"
+    },
+    {
+        "uid": "45",
+        "Name": "Summer Ghost",
+        "Genre": "Fantasy | Drama",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "45"
+    },
+    {
+        "uid": "46",
+        "Name": "Josee the tiger and the fish",
+        "Genre": "Romance | Slice of life",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "46"
+    },
+    {
+        "uid": "47",
+        "Name": "The Girl who leapt through time",
+        "Genre": "Fantasy | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "47"
+    },
+    {
+        "uid": "48",
+        "Name": "Patema Inverted",
+        "Genre": "Fantasy | Action",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "48"
     }
 ]

@@ -398,5 +398,13 @@
         "Type": "Episode",
         "Status": "Yet to Watched",
         "Code": "50"
+    },
+    {
+        "uid": "51",
+        "Name": "The detective is already dead",
+        "Genre": "Mystery | Adventure | Romantic | Comedy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "51"
     }
 ]

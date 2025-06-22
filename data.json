@@ -336,14 +336,6 @@
         "uid": "42"
     },
     {
-        "Name": "The Detective Is Already Dead",
-        "Genre": "Drama | Romance",
-        "Type": "Episode",
-        "Status": "Watched",
-        "Code": "43",
-        "uid": "43"
-    },
-    {
         "Name": "Overload",
         "Genre": "Fantasy | Action",
         "Type": "Episode",
@@ -404,7 +396,7 @@
         "Name": "The detective is already dead",
         "Genre": "Mystery | Adventure | Romantic | Comedy",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "51"
     },
     {
@@ -414,5 +406,13 @@
         "Type": "Movie",
         "Status": "Watched",
         "Code": "52"
+    },
+    {
+        "uid": "53",
+        "Name": "Mashle: Magic and Muscles",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "53"
     }
 ]

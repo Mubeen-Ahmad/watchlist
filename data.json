@@ -105,7 +105,7 @@
     },
     {
         "Name": "Solo leveling",
-        "Genre": "isekai",
+        "Genre": "Action",
         "Type": "Episode",
         "Status": "Watched",
         "Code": "14",
@@ -227,7 +227,7 @@
         "Name": "Insomniacs After School",
         "Genre": "Slice of Life | Romance",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "29",
         "uid": "29"
     },
@@ -336,14 +336,6 @@
         "uid": "42"
     },
     {
-        "Name": "The Detective Is Already Dead",
-        "Genre": "Drama | Romance",
-        "Type": "Episode",
-        "Status": "Yet to Watched",
-        "Code": "43",
-        "uid": "43"
-    },
-    {
         "Name": "Overload",
         "Genre": "Fantasy | Action",
         "Type": "Episode",
@@ -353,10 +345,74 @@
     },
     {
         "uid": "45",
-        "Name": "6",
-        "Genre": "e.g Fantasy | Action ...",
-        "Type": "Episode / Movie",
-        "Status": "Watched / Yet to Watched",
+        "Name": "Summer Ghost",
+        "Genre": "Fantasy | Drama",
+        "Type": "Movie",
+        "Status": "Watched",
         "Code": "45"
+    },
+    {
+        "uid": "46",
+        "Name": "Josee the tiger and the fish",
+        "Genre": "Romance | Slice of life",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "46"
+    },
+    {
+        "uid": "47",
+        "Name": "The Girl who leapt through time",
+        "Genre": "Fantasy | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "47"
+    },
+    {
+        "uid": "48",
+        "Name": "Patema Inverted",
+        "Genre": "Fantasy | Action",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "48"
+    },
+    {
+        "uid": "49",
+        "Name": "Zom 100 Bucket List of the dead",
+        "Genre": "Action | Comedy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "49"
+    },
+    {
+        "uid": "50",
+        "Name": "Dead Mount Death Play",
+        "Genre": "Dark Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "50"
+    },
+    {
+        "uid": "51",
+        "Name": "The detective is already dead",
+        "Genre": "Mystery | Adventure | Romantic | Comedy",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "51"
+    },
+    {
+        "uid": "52",
+        "Name": "A Whisker Away",
+        "Genre": "Action | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "52"
+    },
+    {
+        "uid": "53",
+        "Name": "Mashle: Magic and Muscles",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "53"
     }
 ]

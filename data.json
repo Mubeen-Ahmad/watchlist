@@ -414,5 +414,13 @@
         "Type": "Episode",
         "Status": "Watched",
         "Code": "53"
+    },
+    {
+        "uid": "54",
+        "Name": "Hell's Paradise",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "54"
     }
 ]

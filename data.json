@@ -518,5 +518,29 @@
         "Type": "Episode",
         "Status": "Watched",
         "Code": "66"
+    },
+    {
+        "uid": "67",
+        "Name": "The Fragrant Flower Blooms with Dignity",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "67"
+    },
+    {
+        "uid": "68",
+        "Name": "Takopi's Sin",
+        "Genre": "Slice of Life",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "68"
+    },
+    {
+        "uid": "69",
+        "Name": "Nisekoi",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "69"
     }
 ]

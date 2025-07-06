@@ -414,5 +414,101 @@
         "Type": "Episode",
         "Status": "Watched",
         "Code": "53"
+    },
+    {
+        "uid": "54",
+        "Name": "Hell's Paradise",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "54"
+    },
+    {
+        "uid": "55",
+        "Name": "My love story with yamada-kun at lv999",
+        "Genre": "Fantasy | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "55"
+    },
+    {
+        "uid": "56",
+        "Name": "Princess Mononoke",
+        "Genre": "Fantasy | Action | Romance | Drama",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "56"
+    },
+    {
+        "uid": "57",
+        "Name": "Hello World",
+        "Genre": "Fantasy | Romance | Sci-fi",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "57"
+    },
+    {
+        "uid": "58",
+        "Name": "Instant Death",
+        "Genre": "Fantasy | isekai | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "58"
+    },
+    {
+        "uid": "59",
+        "Name": "The Foolish Angel Dances with the Devil",
+        "Genre": "RomCom | Supernatural",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "59"
+    },
+    {
+        "uid": "60",
+        "Name": "Violet Evergarden",
+        "Genre": "Drama | Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "60"
+    },
+    {
+        "uid": "61",
+        "Name": "Clannad",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "61"
+    },
+    {
+        "uid": "62",
+        "Name": "Anohana The Flower We Saw That Day",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "62"
+    },
+    {
+        "uid": "63",
+        "Name": "Fruits Basket",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "63"
+    },
+    {
+        "uid": "64",
+        "Name": "The Promised Neverland",
+        "Genre": "Mystery | DarkFantasy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "64"
+    },
+    {
+        "uid": "65",
+        "Name": "Angel Beats",
+        "Genre": "Action | Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "65"
     }
 ]

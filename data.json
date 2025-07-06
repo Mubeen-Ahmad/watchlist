@@ -510,5 +510,13 @@
         "Type": "Episode",
         "Status": "Yet to Watched",
         "Code": "65"
+    },
+    {
+        "uid": "66",
+        "Name": "As a Reincarnated Aristocrat I'll Use My Appraisal Skill to Rise in the World",
+        "Genre": "Fantasy | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "66"
     }
 ]

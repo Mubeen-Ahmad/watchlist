@@ -686,5 +686,29 @@
         "Type": "Episode",
         "Status": "Yet to Watched",
         "Code": "86"
+    },
+    {
+        "uid": "88",
+        "Name": "Dandadan",
+        "Genre": "Romance | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "87"
+    },
+    {
+        "uid": "89",
+        "Name": "Grand Blue",
+        "Genre": "Slice of Life | Comedy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "88"
+    },
+    {
+        "uid": "90",
+        "Name": "Doctor Stone",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "89"
     }
 ]

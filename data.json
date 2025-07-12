@@ -542,5 +542,173 @@
         "Type": "Episode",
         "Status": "Yet to Watched",
         "Code": "69"
+    },
+    {
+        "uid": "70",
+        "Name": "Takt Op Destiny",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "70"
+    },
+    {
+        "uid": "71",
+        "Name": "Cyberpunk Edgerunners",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "71"
+    },
+    {
+        "uid": "72",
+        "Name": "Akame Ga Kill",
+        "Genre": "Dark Fantasy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "72"
+    },
+    {
+        "uid": "73",
+        "Name": "Clevatess",
+        "Genre": "Dark fantasy",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "73"
+    },
+    {
+        "uid": "74",
+        "Name": "The Tunnel to Summer",
+        "Genre": "Fantasy Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "74"
+    },
+    {
+        "uid": "75",
+        "Name": "The Wind Rises",
+        "Genre": "Action | Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "75"
+    },
+    {
+        "uid": "76",
+        "Name": "Witch Watch",
+        "Genre": "Romance | Fantasy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "76"
+    },
+    {
+        "uid": "77",
+        "Name": "Rascal Does Not Dream of Santa Claus\n",
+        "Genre": "Romance | Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "77"
+    },
+    {
+        "uid": "78",
+        "Name": "Welcome to the Ballroom",
+        "Genre": "Action | Shonen",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "78"
+    },
+    {
+        "uid": "79",
+        "Name": "My Star Oshi No Ko",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "79"
+    },
+    {
+        "uid": "80",
+        "Name": "Shikimori's not just a cutie",
+        "Genre": "Romance | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "80"
+    },
+    {
+        "uid": "81",
+        "Name": "Super Cube",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "81"
+    },
+    {
+        "uid": "82",
+        "Name": "Demon Slayer Infinity Castle",
+        "Genre": "Fantasy | Action",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "1"
+    },
+    {
+        "uid": "83",
+        "Name": "Black Clover",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "82"
+    },
+    {
+        "uid": "84",
+        "Name": "My Hero Academia",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "83"
+    },
+    {
+        "uid": "85",
+        "Name": "Pokemon: The First Movie",
+        "Genre": "Fantasy | Action",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "84"
+    },
+    {
+        "uid": "86",
+        "Name": "Bleach",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "85"
+    },
+    {
+        "uid": "87",
+        "Name": "The Apothecary Diaries",
+        "Genre": "Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "86"
+    },
+    {
+        "uid": "88",
+        "Name": "Dandadan",
+        "Genre": "Romance | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "87"
+    },
+    {
+        "uid": "89",
+        "Name": "Grand Blue",
+        "Genre": "Slice of Life | Comedy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "88"
+    },
+    {
+        "uid": "90",
+        "Name": "Doctor Stone",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "89"
     }
 ]

@@ -155,7 +155,7 @@
         "Name": "I Want to eat your pancreas",
         "Genre": "Slice of Life | Romance",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Yet to Watched",
         "Code": "20",
         "uid": "20"
     },
@@ -235,7 +235,7 @@
         "Name": "My Dress up Darling",
         "Genre": "Slice of Life | Romance",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Continue",
         "Code": "30",
         "uid": "30"
     },
@@ -307,7 +307,7 @@
         "Name": "Devil me Cry",
         "Genre": "Fantasy | Action",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "39",
         "uid": "39"
     },

@@ -710,5 +710,13 @@
         "Type": "Episode",
         "Status": "Yet to Watched",
         "Code": "89"
+    },
+    {
+        "uid": "91",
+        "Name": "Gachiakuta",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "90"
     }
 ]

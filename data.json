@@ -718,5 +718,13 @@
         "Type": "Episode",
         "Status": "Continue",
         "Code": "90"
+    },
+    {
+        "uid": "92",
+        "Name": "Lord of the Mysteries",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "91"
     }
 ]

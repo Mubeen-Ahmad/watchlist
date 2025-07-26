@@ -16,10 +16,10 @@
         "uid": "2"
     },
     {
-        "Name": "Horimiya",
+        "Name": "Horimiya S1-S2",
         "Genre": "Romance | Slice of Life | Comedy",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "3",
         "uid": "3"
     },
@@ -726,5 +726,13 @@
         "Type": "Episode",
         "Status": "Continue",
         "Code": "91"
+    },
+    {
+        "uid": "93",
+        "Name": "A Condition Called Love S1",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "92"
     }
 ]

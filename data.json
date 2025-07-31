@@ -734,5 +734,13 @@
         "Type": "Episode",
         "Status": "Watched",
         "Code": "92"
+    },
+    {
+        "uid": "94",
+        "Name": "That Time I Got Reincarnated as a Slime",
+        "Genre": "Fantasy | isekai ",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "93"
     }
 ]

@@ -902,13 +902,5 @@
         "Type": "Episode",
         "Status": "Yet to Watched",
         "Code": "113"
-    },
-    {
-        "uid": "115",
-        "Name": "Enter Name",
-        "Genre": "e.g Fantasy | Action ...",
-        "Type": "Episode / Movie",
-        "Status": "Watched / Yet to Watched",
-        "Code": "114"
     }
 ]

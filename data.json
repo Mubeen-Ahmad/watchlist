@@ -934,5 +934,13 @@
         "Type": "Episode",
         "Status": "Continue",
         "Code": "117"
+    },
+    {
+        "uid": "119",
+        "Name": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "118"
     }
 ]

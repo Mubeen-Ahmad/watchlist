@@ -336,10 +336,10 @@
         "uid": "42"
     },
     {
-        "Name": "Overload",
-        "Genre": "Fantasy | Action",
+        "Name": "Overload S1-S4",
+        "Genre": "Fantasy | Action | isekai",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "44",
         "uid": "44"
     },
@@ -926,5 +926,13 @@
         "Type": "Episode",
         "Status": "Watched",
         "Code": "116"
+    },
+    {
+        "uid": "118",
+        "Name": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "117"
     }
 ]

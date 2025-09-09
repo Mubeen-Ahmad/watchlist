@@ -942,5 +942,61 @@
         "Type": "Episode",
         "Status": "Watched",
         "Code": "118"
+    },
+    {
+        "uid": "120",
+        "Name": "The Great Cleric",
+        "Genre": "Fantasy | Action | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "119"
+    },
+    {
+        "uid": "121",
+        "Name": "More Than a Married Couple, But Not Lovers",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "120"
+    },
+    {
+        "uid": "122",
+        "Name": "Welcome to the Outcast's Restaurant!",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "121"
+    },
+    {
+        "uid": "123",
+        "Name": "The Asterisk War",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "122"
+    },
+    {
+        "uid": "124",
+        "Name": "Domestic Girlfriend",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "123"
+    },
+    {
+        "uid": "125",
+        "Name": "After the Rain",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "124"
+    },
+    {
+        "uid": "126",
+        "Name": "Waiting for Rain (Short Anime)",
+        "Genre": "",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "125"
     }
 ]

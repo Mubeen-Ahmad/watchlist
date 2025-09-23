@@ -569,10 +569,10 @@
     },
     {
         "uid": "73",
-        "Name": "Clevatess",
+        "Name": "Clevatess S1",
         "Genre": "Dark fantasy",
         "Type": "Episode",
-        "Status": "Continue",
+        "Status": "Watched",
         "Code": "73"
     },
     {
@@ -961,10 +961,10 @@
     },
     {
         "uid": "122",
-        "Name": "Welcome to the Outcast's Restaurant!",
+        "Name": "Welcome to the Outcast's Restaurant S1",
         "Genre": "Action",
         "Type": "Episode",
-        "Status": "Continue",
+        "Status": "Watched",
         "Code": "121"
     },
     {
@@ -998,5 +998,37 @@
         "Type": "Movie",
         "Status": "Yet to Watched",
         "Code": "125"
+    },
+    {
+        "uid": "127",
+        "Name": "The Shiunji Family Children S1",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "126"
+    },
+    {
+        "uid": "128",
+        "Name": "To be a Hero X",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "127"
+    },
+    {
+        "uid": "129",
+        "Name": "code breaker",
+        "Genre": "e.g Fantasy | Action ...",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "128"
+    },
+    {
+        "uid": "130",
+        "Name": "Black Summoner",
+        "Genre": "e.g Fantasy | Action ...",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "129"
     }
 ]

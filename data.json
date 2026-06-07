@@ -1182,5 +1182,29 @@
         "Type": "Episode",
         "Status": "Continue",
         "Code": "148"
+    },
+    {
+        "uid": "150",
+        "Name": "A Misanthrope Teaches a Class for Demi-Humans",
+        "Genre": "Drama",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "149"
+    },
+    {
+        "uid": "151",
+        "Name": "Assassination Classroom",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "150"
+    },
+    {
+        "uid": "152",
+        "Name": "Alya Sometimes Hides Her Feelings in Russian",
+        "Genre": "Comedy | School",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "151"
     }
 ]

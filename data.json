@@ -56,10 +56,10 @@
         "uid": "7"
     },
     {
-        "Name": "Frieren S1",
+        "Name": "Frieren S1-S2",
         "Genre": "Slice of Life",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Continue",
         "Code": "8",
         "uid": "8"
     },
@@ -304,10 +304,10 @@
         "uid": "38"
     },
     {
-        "Name": "Devil me Cry",
+        "Name": "Devil me Cry S1-S2",
         "Genre": "Fantasy | Action",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Continue",
         "Code": "39",
         "uid": "39"
     },
@@ -1206,5 +1206,77 @@
         "Type": "Episode",
         "Status": "Continue",
         "Code": "151"
+    },
+    {
+        "uid": "153",
+        "Name": "Berserk of Gluttony",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "152"
+    },
+    {
+        "uid": "154",
+        "Name": "Black Butler",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "153"
+    },
+    {
+        "uid": "155",
+        "Name": "Chainsaw Man",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "154"
+    },
+    {
+        "uid": "156",
+        "Name": "Dragon Ball",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "155"
+    },
+    {
+        "uid": "157",
+        "Name": "Fullmetal Alchemist Brotherhood",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "156"
+    },
+    {
+        "uid": "158",
+        "Name": "Hana Kimi",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "157"
+    },
+    {
+        "uid": "159",
+        "Name": "Jack of All Trades Party of None",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "158"
+    },
+    {
+        "uid": "160",
+        "Name": "Let's Play",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "159"
+    },
+    {
+        "uid": "161",
+        "Name": "Lost in Starlight",
+        "Genre": "Action",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "160"
     }
 ]

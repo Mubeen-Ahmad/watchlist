@@ -99,7 +99,7 @@
         "Name": "classroom of the elite",
         "Genre": "",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Continue",
         "Code": "13",
         "uid": "13"
     },
@@ -182,14 +182,6 @@
         "Status": "Watched",
         "Code": "23",
         "uid": "23"
-    },
-    {
-        "Name": "Relif",
-        "Genre": "Slice of Life | Romance",
-        "Type": "Episode",
-        "Status": "Watched",
-        "Code": "24",
-        "uid": "24"
     },
     {
         "Name": "Attack on Titan",
@@ -296,10 +288,10 @@
         "uid": "37"
     },
     {
-        "Name": "The angel next door spoils me rotten",
+        "Name": "The angel next door spoils me rotten S1-S2",
         "Genre": "Romance",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Continue",
         "Code": "38",
         "uid": "38"
     },
@@ -323,7 +315,7 @@
         "Name": "Anne Happy",
         "Genre": "Drama",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Continue",
         "Code": "41",
         "uid": "41"
     },
@@ -656,14 +648,6 @@
         "Code": "82"
     },
     {
-        "uid": "84",
-        "Name": "My Hero Academia",
-        "Genre": "Action",
-        "Type": "Episode",
-        "Status": "Continue",
-        "Code": "83"
-    },
-    {
         "uid": "85",
         "Name": "Pokemon: The First Movie",
         "Genre": "Fantasy | Action",
@@ -737,10 +721,10 @@
     },
     {
         "uid": "94",
-        "Name": "That Time I Got Reincarnated as a Slime S1-S3",
+        "Name": "That Time I Got Reincarnated as a Slime S1-S4",
         "Genre": "Fantasy | isekai ",
         "Type": "Episode",
-        "Status": "Watched",
+        "Status": "Continue",
         "Code": "93"
     },
     {
@@ -1012,7 +996,7 @@
         "Name": "To be a Hero X",
         "Genre": "Action",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Continue",
         "Code": "127"
     },
     {
@@ -1060,7 +1044,7 @@
         "Name": "my hero academia S1-S8",
         "Genre": "Action",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Continue",
         "Code": "133"
     },
     {
@@ -1102,14 +1086,6 @@
         "Type": "Episode",
         "Status": "Watched",
         "Code": "138"
-    },
-    {
-        "uid": "140",
-        "Name": "Hell's paradise",
-        "Genre": "Action",
-        "Type": "Episode",
-        "Status": "Yet to Watched",
-        "Code": "139"
     },
     {
         "uid": "141",
@@ -1286,5 +1262,165 @@
         "Type": "Episode",
         "Status": "Continue",
         "Code": "161"
+    },
+    {
+        "uid": "163",
+        "Name": "My Oni Girl",
+        "Genre": "Action",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "162"
+    },
+    {
+        "uid": "164",
+        "Name": "One Piece",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "163"
+    },
+    {
+        "uid": "165",
+        "Name": "Release that Witch",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "164"
+    },
+    {
+        "uid": "166",
+        "Name": "Relife",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "165"
+    },
+    {
+        "uid": "167",
+        "Name": "Sakamoto Days",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "166"
+    },
+    {
+        "uid": "168",
+        "Name": "Scum of the Brave",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "167"
+    },
+    {
+        "uid": "169",
+        "Name": "Spirited Away",
+        "Genre": "Action",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "168"
+    },
+    {
+        "uid": "170",
+        "Name": "Summer Time Rendering",
+        "Genre": "Shounen",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "169"
+    },
+    {
+        "uid": "171",
+        "Name": "Sword Art Online",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "170"
+    },
+    {
+        "uid": "172",
+        "Name": "The Ramparts of Ice",
+        "Genre": "Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "171"
+    },
+    {
+        "uid": "173",
+        "Name": "The Rising of the Shield Hero",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "172"
+    },
+    {
+        "uid": "174",
+        "Name": "The Reincarnation of the Strongest Exorcist in Another World",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "173"
+    },
+    {
+        "uid": "175",
+        "Name": "The Warrior Princess and the Barbaric King",
+        "Genre": "Action | Comedy",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "174"
+    },
+    {
+        "uid": "176",
+        "Name": "Vampire Dormitory",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "175"
+    },
+    {
+        "uid": "177",
+        "Name": "Vinland Saga",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "176"
+    },
+    {
+        "uid": "178",
+        "Name": "Wistoria Wand and Sword",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "177"
+    },
+    {
+        "uid": "179",
+        "Name": "Witch Hat Atelier",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "178"
+    },
+    {
+        "uid": "180",
+        "Name": "Dorohedoro",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "179"
+    },
+    {
+        "uid": "181",
+        "Name": "Ragna Crimson",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "180"
+    },
+    {
+        "uid": "182",
+        "Name": "Scarlet",
+        "Genre": "Romance",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "181"
     }
 ]

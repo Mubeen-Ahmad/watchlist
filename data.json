@@ -56,10 +56,10 @@
         "uid": "7"
     },
     {
-        "Name": "Frieren",
-        "Genre": "",
-        "Type": "",
-        "Status": "Yet to Watched",
+        "Name": "Frieren S1",
+        "Genre": "Slice of Life",
+        "Type": "Episode",
+        "Status": "Watched",
         "Code": "8",
         "uid": "8"
     },
@@ -120,10 +120,10 @@
         "uid": "15"
     },
     {
-        "Name": "Kaiju No 8",
+        "Name": "Kaiju No 8 S1-S2",
         "Genre": "Action",
         "Type": "Episode",
-        "Status": "Continue",
+        "Status": "Watched",
         "Code": "16",
         "uid": "16"
     },
@@ -208,10 +208,10 @@
         "uid": "26"
     },
     {
-        "Name": "ReZero",
+        "Name": "ReZero S1-S3",
         "Genre": "Romance",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "27",
         "uid": "27"
     },
@@ -336,10 +336,10 @@
         "uid": "42"
     },
     {
-        "Name": "Overload",
-        "Genre": "Fantasy | Action",
+        "Name": "Overload S1-S4",
+        "Genre": "Fantasy | Action | isekai",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "44",
         "uid": "44"
     },
@@ -524,7 +524,7 @@
         "Name": "The Fragrant Flower Blooms with Dignity",
         "Genre": "Romance",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Continue",
         "Code": "67"
     },
     {
@@ -569,10 +569,10 @@
     },
     {
         "uid": "73",
-        "Name": "Clevatess",
+        "Name": "Clevatess S1",
         "Genre": "Dark fantasy",
         "Type": "Episode",
-        "Status": "Continue",
+        "Status": "Watched",
         "Code": "73"
     },
     {
@@ -660,7 +660,7 @@
         "Name": "My Hero Academia",
         "Genre": "Action",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Continue",
         "Code": "83"
     },
     {
@@ -692,7 +692,7 @@
         "Name": "Dandadan S1-S2",
         "Genre": "Romance | Action",
         "Type": "Episode",
-        "Status": "Continue",
+        "Status": "Watched",
         "Code": "87"
     },
     {
@@ -900,7 +900,7 @@
         "Name": "A Gatherer\u2019s Adventure in Isekai",
         "Genre": "isekai",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Continue",
         "Code": "113"
     },
     {
@@ -913,10 +913,10 @@
     },
     {
         "uid": "116",
-        "Name": "New Saga",
+        "Name": "New Saga S1",
         "Genre": "Fantasy | Action",
         "Type": "Episode",
-        "Status": "Yet to Watched",
+        "Status": "Watched",
         "Code": "115"
     },
     {
@@ -926,5 +926,261 @@
         "Type": "Episode",
         "Status": "Watched",
         "Code": "116"
+    },
+    {
+        "uid": "118",
+        "Name": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest S1",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "117"
+    },
+    {
+        "uid": "119",
+        "Name": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "118"
+    },
+    {
+        "uid": "120",
+        "Name": "The Great Cleric",
+        "Genre": "Fantasy | Action | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "119"
+    },
+    {
+        "uid": "121",
+        "Name": "More Than a Married Couple, But Not Lovers",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "120"
+    },
+    {
+        "uid": "122",
+        "Name": "Welcome to the Outcast's Restaurant S1",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "121"
+    },
+    {
+        "uid": "123",
+        "Name": "The Asterisk War",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "122"
+    },
+    {
+        "uid": "124",
+        "Name": "Domestic Girlfriend",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "123"
+    },
+    {
+        "uid": "125",
+        "Name": "After the Rain",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "124"
+    },
+    {
+        "uid": "126",
+        "Name": "Waiting for Rain (Short Anime)",
+        "Genre": "",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "125"
+    },
+    {
+        "uid": "127",
+        "Name": "The Shiunji Family Children S1",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "126"
+    },
+    {
+        "uid": "128",
+        "Name": "To be a Hero X",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "127"
+    },
+    {
+        "uid": "129",
+        "Name": "code breaker",
+        "Genre": "e.g Fantasy | Action ...",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "128"
+    },
+    {
+        "uid": "130",
+        "Name": "Black Summoner",
+        "Genre": "e.g Fantasy | Action ...",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "129"
+    },
+    {
+        "uid": "131",
+        "Name": "my unique skill makes\n me op even at level 1 S1",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "130"
+    },
+    {
+        "uid": "132",
+        "Name": "Soul Land",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "131"
+    },
+    {
+        "uid": "133",
+        "Name": "My Status as an Assassin Obviously S1",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "132"
+    },
+    {
+        "uid": "134",
+        "Name": "my hero academia S1-S8",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "133"
+    },
+    {
+        "uid": "135",
+        "Name": "My Happy Marriage",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "134"
+    },
+    {
+        "uid": "136",
+        "Name": "365 Days to the Wedding",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "135"
+    },
+    {
+        "uid": "137",
+        "Name": "Spy X Family",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "136"
+    },
+    {
+        "uid": "138",
+        "Name": "Evangelion 1-3",
+        "Genre": "Dark | Action",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "137"
+    },
+    {
+        "uid": "139",
+        "Name": "May i Ask for one final thing?",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "138"
+    },
+    {
+        "uid": "140",
+        "Name": "Hell's paradise",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "139"
+    },
+    {
+        "uid": "141",
+        "Name": "ReMonster",
+        "Genre": "Action | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "140"
+    },
+    {
+        "uid": "142",
+        "Name": "Banished from the Heroes' Party",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "141"
+    },
+    {
+        "uid": "143",
+        "Name": "Sentanced to be a hero",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "142"
+    },
+    {
+        "uid": "144",
+        "Name": "Tokyo Ghoul",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "143"
+    },
+    {
+        "uid": "145",
+        "Name": "Tsukimichi Moonlit Fantasy S1-S2",
+        "Genre": "Action | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "144"
+    },
+    {
+        "uid": "146",
+        "Name": "Dark Moon The Blood Altar",
+        "Genre": "Fantasy",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "145"
+    },
+    {
+        "uid": "147",
+        "Name": "Kunon the Sorcerer Can See",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "146"
+    },
+    {
+        "uid": "148",
+        "Name": "There was a cute girl in the Heros party, So i tried confessing to her",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "147"
+    },
+    {
+        "uid": "149",
+        "Name": "Trapped in a dating sim",
+        "Genre": "Action | isekai",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "148"
     }
 ]

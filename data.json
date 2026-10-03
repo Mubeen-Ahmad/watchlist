@@ -1,0 +1,1434 @@
+[
+    {
+        "Name": "Demon Slayer (Kimetsu no Yaiba)",
+        "Genre": "Action | Shounen | Drama",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "1",
+        "uid": "1"
+    },
+    {
+        "Name": "The Unaware Atelier Meister",
+        "Genre": "Fantasy | Slice of Life",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "2",
+        "uid": "2"
+    },
+    {
+        "Name": "Horimiya S1-S2",
+        "Genre": "Romance | Slice of Life | Comedy",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "3",
+        "uid": "3"
+    },
+    {
+        "Name": "Naruto",
+        "Genre": "",
+        "Type": "",
+        "Status": "Yet to Watched",
+        "Code": "4",
+        "uid": "4"
+    },
+    {
+        "Name": "Jujutsu Kaisen",
+        "Genre": "Action",
+        "Type": "",
+        "Status": "Continue",
+        "Code": "5",
+        "uid": "5"
+    },
+    {
+        "Name": "Buddy Daddies",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "6",
+        "uid": "6"
+    },
+    {
+        "Name": "Boruto",
+        "Genre": "",
+        "Type": "",
+        "Status": "Yet to Watched",
+        "Code": "7",
+        "uid": "7"
+    },
+    {
+        "Name": "Frieren S1-S2",
+        "Genre": "Slice of Life",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "8",
+        "uid": "8"
+    },
+    {
+        "Name": "why does nobody remember me in this world",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "9",
+        "uid": "9"
+    },
+    {
+        "Name": "i got a cheat skill in another world",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "10",
+        "uid": "10"
+    },
+    {
+        "Name": "Mushoku Tensei",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "11",
+        "uid": "11"
+    },
+    {
+        "Name": "The wrong way to use healing",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "12",
+        "uid": "12"
+    },
+    {
+        "Name": "classroom of the elite",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "13",
+        "uid": "13"
+    },
+    {
+        "Name": "Solo leveling",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "14",
+        "uid": "14"
+    },
+    {
+        "Name": "Tower of God",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "15",
+        "uid": "15"
+    },
+    {
+        "Name": "Kaiju No 8 S1-S2",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "16",
+        "uid": "16"
+    },
+    {
+        "Name": "The strongest magician in the demon lord's army was a human",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "17",
+        "uid": "17"
+    },
+    {
+        "Name": "You lie in April",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Epsoide",
+        "Status": "Watched",
+        "Code": "18",
+        "uid": "18"
+    },
+    {
+        "Name": "A Slient Voice",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "19",
+        "uid": "19"
+    },
+    {
+        "Name": "I Want to eat your pancreas",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "20",
+        "uid": "20"
+    },
+    {
+        "Name": "Your Name",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "21",
+        "uid": "21"
+    },
+    {
+        "Name": "5 CM Per Second",
+        "Genre": "Slice of Life",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "22",
+        "uid": "22"
+    },
+    {
+        "Name": "Weathering With you",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "23",
+        "uid": "23"
+    },
+    {
+        "Name": "Attack on Titan",
+        "Genre": "Action | Shounen | Slice of Life",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "25",
+        "uid": "25"
+    },
+    {
+        "Name": "Darling in Frenx",
+        "Genre": "Slice of Life",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "26",
+        "uid": "26"
+    },
+    {
+        "Name": "ReZero S1-S3",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "27",
+        "uid": "27"
+    },
+    {
+        "Name": "Blue Box",
+        "Genre": "",
+        "Type": "",
+        "Status": "Yet to Watched",
+        "Code": "28",
+        "uid": "28"
+    },
+    {
+        "Name": "Insomniacs After School",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "29",
+        "uid": "29"
+    },
+    {
+        "Name": "My Dress up Darling",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "30",
+        "uid": "30"
+    },
+    {
+        "Name": "A Couple of Cukoos",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "31",
+        "uid": "31"
+    },
+    {
+        "Name": "Grave of the firefiles",
+        "Genre": "Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "32",
+        "uid": "32"
+    },
+    {
+        "Name": "The Wolf of Children",
+        "Genre": "Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "33",
+        "uid": "33"
+    },
+    {
+        "Name": "Plastic Memories",
+        "Genre": "Slice of Life",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "34",
+        "uid": "34"
+    },
+    {
+        "Name": "Suzume",
+        "Genre": "Action | Romance | Slice of Life",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "35",
+        "uid": "35"
+    },
+    {
+        "Name": "Garden of Words",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "36",
+        "uid": "36"
+    },
+    {
+        "Name": "Makeine Too Many Losing Heroine",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "37",
+        "uid": "37"
+    },
+    {
+        "Name": "The angel next door spoils me rotten S1-S2",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "38",
+        "uid": "38"
+    },
+    {
+        "Name": "Devil me Cry S1-S2",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "39",
+        "uid": "39"
+    },
+    {
+        "Name": "Death Note",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "40",
+        "uid": "40"
+    },
+    {
+        "Name": "Anne Happy",
+        "Genre": "Drama",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "41",
+        "uid": "41"
+    },
+    {
+        "Name": "An Archdemons Dilemma How to Love Your Elf Bride",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "42",
+        "uid": "42"
+    },
+    {
+        "Name": "Overload S1-S4",
+        "Genre": "Fantasy | Action | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "44",
+        "uid": "44"
+    },
+    {
+        "uid": "45",
+        "Name": "Summer Ghost",
+        "Genre": "Fantasy | Drama",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "45"
+    },
+    {
+        "uid": "46",
+        "Name": "Josee the tiger and the fish",
+        "Genre": "Romance | Slice of life",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "46"
+    },
+    {
+        "uid": "47",
+        "Name": "The Girl who leapt through time",
+        "Genre": "Fantasy | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "47"
+    },
+    {
+        "uid": "48",
+        "Name": "Patema Inverted",
+        "Genre": "Fantasy | Action",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "48"
+    },
+    {
+        "uid": "49",
+        "Name": "Zom 100 Bucket List of the dead",
+        "Genre": "Action | Comedy",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "49"
+    },
+    {
+        "uid": "50",
+        "Name": "Dead Mount Death Play",
+        "Genre": "Dark Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "50"
+    },
+    {
+        "uid": "51",
+        "Name": "The detective is already dead",
+        "Genre": "Mystery | Adventure | Romantic | Comedy",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "51"
+    },
+    {
+        "uid": "52",
+        "Name": "A Whisker Away",
+        "Genre": "Action | Romance",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "52"
+    },
+    {
+        "uid": "53",
+        "Name": "Mashle: Magic and Muscles",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "53"
+    },
+    {
+        "uid": "54",
+        "Name": "Hell's Paradise",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "54"
+    },
+    {
+        "uid": "55",
+        "Name": "My love story with yamada-kun at lv999",
+        "Genre": "Fantasy | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "55"
+    },
+    {
+        "uid": "56",
+        "Name": "Princess Mononoke",
+        "Genre": "Fantasy | Action | Romance | Drama",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "56"
+    },
+    {
+        "uid": "57",
+        "Name": "Hello World",
+        "Genre": "Fantasy | Romance | Sci-fi",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "57"
+    },
+    {
+        "uid": "58",
+        "Name": "Instant Death",
+        "Genre": "Fantasy | isekai | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "58"
+    },
+    {
+        "uid": "59",
+        "Name": "The Foolish Angel Dances with the Devil",
+        "Genre": "RomCom | Supernatural",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "59"
+    },
+    {
+        "uid": "60",
+        "Name": "Violet Evergarden",
+        "Genre": "Drama | Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "60"
+    },
+    {
+        "uid": "61",
+        "Name": "Clannad",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "61"
+    },
+    {
+        "uid": "62",
+        "Name": "Anohana The Flower We Saw That Day",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "62"
+    },
+    {
+        "uid": "63",
+        "Name": "Fruits Basket",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "63"
+    },
+    {
+        "uid": "64",
+        "Name": "The Promised Neverland",
+        "Genre": "Mystery | DarkFantasy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "64"
+    },
+    {
+        "uid": "65",
+        "Name": "Angel Beats",
+        "Genre": "Action | Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "65"
+    },
+    {
+        "uid": "66",
+        "Name": "As a Reincarnated Aristocrat I'll Use My Appraisal Skill to Rise in the World",
+        "Genre": "Fantasy | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "66"
+    },
+    {
+        "uid": "67",
+        "Name": "The Fragrant Flower Blooms with Dignity",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "67"
+    },
+    {
+        "uid": "68",
+        "Name": "Takopi's Original Sin",
+        "Genre": "Dark Fantasy",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "68"
+    },
+    {
+        "uid": "69",
+        "Name": "Nisekoi",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "69"
+    },
+    {
+        "uid": "70",
+        "Name": "Takt Op Destiny",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "70"
+    },
+    {
+        "uid": "71",
+        "Name": "Cyberpunk Edgerunners",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "71"
+    },
+    {
+        "uid": "72",
+        "Name": "Akame Ga Kill",
+        "Genre": "Dark Fantasy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "72"
+    },
+    {
+        "uid": "73",
+        "Name": "Clevatess S1",
+        "Genre": "Dark fantasy",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "73"
+    },
+    {
+        "uid": "74",
+        "Name": "The Tunnel to Summer",
+        "Genre": "Fantasy Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "74"
+    },
+    {
+        "uid": "75",
+        "Name": "The Wind Rises",
+        "Genre": "Action | Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "75"
+    },
+    {
+        "uid": "76",
+        "Name": "Witch Watch",
+        "Genre": "Romance | Fantasy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "76"
+    },
+    {
+        "uid": "77",
+        "Name": "Rascal Does Not Dream of Santa Claus\n",
+        "Genre": "Romance | Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "77"
+    },
+    {
+        "uid": "78",
+        "Name": "Welcome to the Ballroom",
+        "Genre": "Action | Shonen",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "78"
+    },
+    {
+        "uid": "79",
+        "Name": "My Star Oshi No Ko",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "79"
+    },
+    {
+        "uid": "80",
+        "Name": "Shikimori's not just a cutie",
+        "Genre": "Romance | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "80"
+    },
+    {
+        "uid": "81",
+        "Name": "Super Cube",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "81"
+    },
+    {
+        "uid": "82",
+        "Name": "Demon Slayer Infinity Castle",
+        "Genre": "Fantasy | Action",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "1"
+    },
+    {
+        "uid": "83",
+        "Name": "Black Clover",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "82"
+    },
+    {
+        "uid": "85",
+        "Name": "Pokemon: The First Movie",
+        "Genre": "Fantasy | Action",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "84"
+    },
+    {
+        "uid": "86",
+        "Name": "Bleach",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "85"
+    },
+    {
+        "uid": "87",
+        "Name": "The Apothecary Diaries",
+        "Genre": "Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "86"
+    },
+    {
+        "uid": "88",
+        "Name": "Dandadan S1-S2",
+        "Genre": "Romance | Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "87"
+    },
+    {
+        "uid": "89",
+        "Name": "Grand Blue",
+        "Genre": "Slice of Life | Comedy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "88"
+    },
+    {
+        "uid": "90",
+        "Name": "Doctor Stone",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "89"
+    },
+    {
+        "uid": "91",
+        "Name": "Gachiakuta",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "90"
+    },
+    {
+        "uid": "92",
+        "Name": "Lord of the Mysteries",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "91"
+    },
+    {
+        "uid": "93",
+        "Name": "A Condition Called Love S1",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "92"
+    },
+    {
+        "uid": "94",
+        "Name": "That Time I Got Reincarnated as a Slime S1-S4",
+        "Genre": "Fantasy | isekai ",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "93"
+    },
+    {
+        "uid": "95",
+        "Name": "Colorful",
+        "Genre": "Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "94"
+    },
+    {
+        "uid": "96",
+        "Name": "Into the Forest of Fireflies Light",
+        "Genre": "Slice of life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "95"
+    },
+    {
+        "uid": "97",
+        "Name": "Tamako Love Story",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "96"
+    },
+    {
+        "uid": "98",
+        "Name": "The Anthem of the Heart",
+        "Genre": "Romance | Drama",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "97"
+    },
+    {
+        "uid": "99",
+        "Name": "Mirai",
+        "Genre": "Slice of Life | Fantasy",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "98"
+    },
+    {
+        "uid": "100",
+        "Name": "In This Corner of the World",
+        "Genre": "Slice of Life | Drama",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "99"
+    },
+    {
+        "uid": "101",
+        "Name": "The Ancient Magus",
+        "Genre": "Slice of Life | Fantasy",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "100"
+    },
+    {
+        "uid": "102",
+        "Name": "Farming Life in Another World",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "101"
+    },
+    {
+        "uid": "103",
+        "Name": "The Summer Hikaru Died",
+        "Genre": "Mystery | Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "102"
+    },
+    {
+        "uid": "104",
+        "Name": "Dragon Raja",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "103"
+    },
+    {
+        "uid": "105",
+        "Name": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "104"
+    },
+    {
+        "uid": "106",
+        "Name": "The Dangers in My Heart",
+        "Genre": "Romance | Slice of Life",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "105"
+    },
+    {
+        "uid": "107",
+        "Name": "Voices of a Distant Star",
+        "Genre": "Drama | Sci-Fi | Romance",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "106"
+    },
+    {
+        "uid": "108",
+        "Name": "The Place Promised in Our Early Days",
+        "Genre": "Sci‑Fi | Romance",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "107"
+    },
+    {
+        "uid": "109",
+        "Name": "Kaguya-sama Love is War",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "108"
+    },
+    {
+        "uid": "110",
+        "Name": "My One-Hit Kill Sister",
+        "Genre": "isekai | Harem",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "109"
+    },
+    {
+        "uid": "111",
+        "Name": "The Iceblade Sorcerer Shall Rule the World",
+        "Genre": "Drama | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "110"
+    },
+    {
+        "uid": "112",
+        "Name": "Nekopara",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "111"
+    },
+    {
+        "uid": "113",
+        "Name": "Summoned to Another World for a Second Time",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "112"
+    },
+    {
+        "uid": "114",
+        "Name": "A Gatherer’s Adventure in Isekai",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "113"
+    },
+    {
+        "uid": "115",
+        "Name": "Radiant",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "114"
+    },
+    {
+        "uid": "116",
+        "Name": "New Saga S1",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "115"
+    },
+    {
+        "uid": "117",
+        "Name": "Why Raeliana Ended Up at the Duke's Mansion",
+        "Genre": "Fantasy | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "116"
+    },
+    {
+        "uid": "118",
+        "Name": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest S1",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "117"
+    },
+    {
+        "uid": "119",
+        "Name": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "118"
+    },
+    {
+        "uid": "120",
+        "Name": "The Great Cleric",
+        "Genre": "Fantasy | Action | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "119"
+    },
+    {
+        "uid": "121",
+        "Name": "More Than a Married Couple, But Not Lovers",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "120"
+    },
+    {
+        "uid": "122",
+        "Name": "Welcome to the Outcast's Restaurant S1",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "121"
+    },
+    {
+        "uid": "123",
+        "Name": "The Asterisk War",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "122"
+    },
+    {
+        "uid": "124",
+        "Name": "Domestic Girlfriend",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "123"
+    },
+    {
+        "uid": "125",
+        "Name": "After the Rain",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "124"
+    },
+    {
+        "uid": "126",
+        "Name": "Waiting for Rain (Short Anime)",
+        "Genre": "",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "125"
+    },
+    {
+        "uid": "127",
+        "Name": "The Shiunji Family Children S1",
+        "Genre": "",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "126"
+    },
+    {
+        "uid": "128",
+        "Name": "To be a Hero X",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "127"
+    },
+    {
+        "uid": "129",
+        "Name": "code breaker",
+        "Genre": "e.g Fantasy | Action ...",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "128"
+    },
+    {
+        "uid": "130",
+        "Name": "Black Summoner",
+        "Genre": "e.g Fantasy | Action ...",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "129"
+    },
+    {
+        "uid": "131",
+        "Name": "my unique skill makes\n me op even at level 1 S1",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "130"
+    },
+    {
+        "uid": "132",
+        "Name": "Soul Land",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "131"
+    },
+    {
+        "uid": "133",
+        "Name": "My Status as an Assassin Obviously S1",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "132"
+    },
+    {
+        "uid": "134",
+        "Name": "my hero academia S1-S8",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "133"
+    },
+    {
+        "uid": "135",
+        "Name": "My Happy Marriage S1",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "134"
+    },
+    {
+        "uid": "136",
+        "Name": "365 Days to the Wedding",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "135"
+    },
+    {
+        "uid": "137",
+        "Name": "Spy X Family",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "136"
+    },
+    {
+        "uid": "138",
+        "Name": "Evangelion 1-3",
+        "Genre": "Dark | Action",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "137"
+    },
+    {
+        "uid": "139",
+        "Name": "May i Ask for one final thing?",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "138"
+    },
+    {
+        "uid": "141",
+        "Name": "ReMonster",
+        "Genre": "Action | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "140"
+    },
+    {
+        "uid": "142",
+        "Name": "Banished from the Heroes' Party",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "141"
+    },
+    {
+        "uid": "143",
+        "Name": "Sentanced to be a hero S1",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "142"
+    },
+    {
+        "uid": "144",
+        "Name": "Tokyo Ghoul",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "143"
+    },
+    {
+        "uid": "145",
+        "Name": "Tsukimichi Moonlit Fantasy S1-S2",
+        "Genre": "Action | isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "144"
+    },
+    {
+        "uid": "146",
+        "Name": "Dark Moon The Blood Altar",
+        "Genre": "Fantasy",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "145"
+    },
+    {
+        "uid": "147",
+        "Name": "Kunon the Sorcerer Can See",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "146"
+    },
+    {
+        "uid": "148",
+        "Name": "There was a cute girl in the Heros party, So i tried confessing to her",
+        "Genre": "isekai",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "147"
+    },
+    {
+        "uid": "149",
+        "Name": "Trapped in a dating sim",
+        "Genre": "Action | isekai",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "148"
+    },
+    {
+        "uid": "150",
+        "Name": "A Misanthrope Teaches a Class for Demi-Humans",
+        "Genre": "Drama",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "149"
+    },
+    {
+        "uid": "151",
+        "Name": "Assassination Classroom",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "150"
+    },
+    {
+        "uid": "152",
+        "Name": "Alya Sometimes Hides Her Feelings in Russian",
+        "Genre": "Comedy | School",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "151"
+    },
+    {
+        "uid": "153",
+        "Name": "Berserk of Gluttony",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "152"
+    },
+    {
+        "uid": "154",
+        "Name": "Black Butler",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "153"
+    },
+    {
+        "uid": "155",
+        "Name": "Chainsaw Man",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "154"
+    },
+    {
+        "uid": "156",
+        "Name": "Dragon Ball",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "155"
+    },
+    {
+        "uid": "157",
+        "Name": "Fullmetal Alchemist Brotherhood",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "156"
+    },
+    {
+        "uid": "158",
+        "Name": "Hana Kimi",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "157"
+    },
+    {
+        "uid": "159",
+        "Name": "Jack of All Trades Party of None",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "158"
+    },
+    {
+        "uid": "160",
+        "Name": "Let's Play",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "159"
+    },
+    {
+        "uid": "161",
+        "Name": "Lost in Starlight",
+        "Genre": "Action",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "160"
+    },
+    {
+        "uid": "162",
+        "Name": "Marriage Toxin",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "161"
+    },
+    {
+        "uid": "163",
+        "Name": "My Oni Girl",
+        "Genre": "Action",
+        "Type": "Movie",
+        "Status": "Watched",
+        "Code": "162"
+    },
+    {
+        "uid": "164",
+        "Name": "One Piece",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "163"
+    },
+    {
+        "uid": "165",
+        "Name": "Release that Witch",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "164"
+    },
+    {
+        "uid": "166",
+        "Name": "Relife",
+        "Genre": "Slice of Life | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "165"
+    },
+    {
+        "uid": "167",
+        "Name": "Sakamoto Days",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "166"
+    },
+    {
+        "uid": "168",
+        "Name": "Scum of the Brave",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "167"
+    },
+    {
+        "uid": "169",
+        "Name": "Spirited Away",
+        "Genre": "Action",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "168"
+    },
+    {
+        "uid": "170",
+        "Name": "Summer Time Rendering",
+        "Genre": "Shounen",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "169"
+    },
+    {
+        "uid": "171",
+        "Name": "Sword Art Online",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "170"
+    },
+    {
+        "uid": "172",
+        "Name": "The Ramparts of Ice",
+        "Genre": "Drama",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "171"
+    },
+    {
+        "uid": "173",
+        "Name": "The Rising of the Shield Hero",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "172"
+    },
+    {
+        "uid": "174",
+        "Name": "The Reincarnation of the Strongest Exorcist in Another World",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "173"
+    },
+    {
+        "uid": "175",
+        "Name": "The Warrior Princess and the Barbaric King",
+        "Genre": "Action | Comedy",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "174"
+    },
+    {
+        "uid": "176",
+        "Name": "Vampire Dormitory",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "175"
+    },
+    {
+        "uid": "177",
+        "Name": "Vinland Saga",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "176"
+    },
+    {
+        "uid": "178",
+        "Name": "Wistoria Wand and Sword",
+        "Genre": "Action | Romance",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "177"
+    },
+    {
+        "uid": "179",
+        "Name": "Witch Hat Atelier",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Continue",
+        "Code": "178"
+    },
+    {
+        "uid": "180",
+        "Name": "Dorohedoro",
+        "Genre": "Fantasy | Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "179"
+    },
+    {
+        "uid": "181",
+        "Name": "Ragna Crimson",
+        "Genre": "Action",
+        "Type": "Episode",
+        "Status": "Yet to Watched",
+        "Code": "180"
+    },
+    {
+        "uid": "182",
+        "Name": "Scarlet",
+        "Genre": "Romance",
+        "Type": "Movie",
+        "Status": "Yet to Watched",
+        "Code": "181"
+    },
+    {
+        "uid": "183",
+        "Name": "watari kun is about to collapse",
+        "Genre": "Romance",
+        "Type": "Episode",
+        "Status": "Watched",
+        "Code": "182"
+    }
+]
